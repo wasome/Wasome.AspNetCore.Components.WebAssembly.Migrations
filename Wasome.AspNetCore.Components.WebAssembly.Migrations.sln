@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasome.AspNetCore.Components.WebAssembly.Migrations", "Wasome.AspNetCore.Components.WebAssembly.Migrations\Wasome.AspNetCore.Components.WebAssembly.Migrations.csproj", "{CEEB2F56-5FF9-4887-AEF3-8E309D09C350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEB2F56-5FF9-4887-AEF3-8E309D09C350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEB2F56-5FF9-4887-AEF3-8E309D09C350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEB2F56-5FF9-4887-AEF3-8E309D09C350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEB2F56-5FF9-4887-AEF3-8E309D09C350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
